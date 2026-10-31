@@ -1,26 +1,19 @@
 {
   "version": "1",
   "metadata": {
-    "marimo_version": "0.24.2",
+    "marimo_version": "0.25.2",
     "script_metadata_hash": "8e26c7f166985e32868bbcb09ffa4a07"
   },
   "cells": [
     {
       "id": "setup",
       "code_hash": "6f40f30abab5849aaf986862372ee9b3",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/plain": ""
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
       "id": "Hbol",
-      "code_hash": "8928c49e3484a0299899cf2b6cf64649",
+      "code_hash": "96f23602d539ce353dc5c7547c024719",
       "outputs": [
         {
           "type": "data",
@@ -47,27 +40,13 @@
     {
       "id": "vblA",
       "code_hash": "58f06fa7729ca2cd6c7d469257f1ea54",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/plain": ""
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
       "id": "bkHC",
       "code_hash": "00d808e36c6a1b8a9875884f456a232c",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/plain": ""
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
@@ -86,40 +65,19 @@
     {
       "id": "PKri",
       "code_hash": "1db5755f370150a1dc2a8c79a92b3192",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/plain": ""
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
       "id": "Xref",
       "code_hash": "60a7533f774b9470f1f8bf4711a828f3",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/plain": ""
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
       "id": "SFPL",
       "code_hash": "7131c071f9ab3f36aaca4485c698aec4",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/plain": ""
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
@@ -138,40 +96,19 @@
     {
       "id": "RGSE",
       "code_hash": "f6846115ad6005d592111d0b72a89707",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/plain": ""
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
       "id": "Kclp",
       "code_hash": "c4221fc6ca46a4015e715e96f13ab199",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/plain": ""
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
       "id": "emfo",
       "code_hash": "6e7aa77bf8bffd6b15cee7266878243e",
-      "outputs": [
-        {
-          "type": "data",
-          "data": {
-            "text/plain": ""
-          }
-        }
-      ],
+      "outputs": [],
       "console": []
     },
     {
