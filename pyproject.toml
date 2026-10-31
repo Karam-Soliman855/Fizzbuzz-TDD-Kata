@@ -20,6 +20,7 @@ packages = ["src/fizzbuzz_kata"]
 [dependency-groups]
 dev = [
     "marimo>=0.24.2",
+    "mypy>=2.4.1",
     "pytest>=9.1.1",
     "pytest-cov>=5.0",
     "ruff>=0.16.8",
@@ -29,5 +30,23 @@ dev = [
 pythonpath = ["src"]
 testpaths = ["tests"]
 
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
 [tool.ruff.lint.per-file-ignores]
-"notebooks/*.py" = ["B018", "PLR1711"]
+"notebooks/*.py" = ["B018"]
+
+[tool.mypy]
+strict = true
+files = ["src"]
+
+[tool.coverage.run]
+source = ["src"]
+
+[tool.coverage.report]
+show_missing = true
+fail_under = 90

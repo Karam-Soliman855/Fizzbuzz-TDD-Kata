@@ -1,4 +1,5 @@
 """FizzBuzz kata package — see core.py for the implementation."""
+
 from fizzbuzz_kata.core import fizzbuzz
 
 __all__ = ["fizzbuzz"]
