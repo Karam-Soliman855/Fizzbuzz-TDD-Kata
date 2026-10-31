@@ -7,7 +7,7 @@ license = { text = "MIT" }
 authors = [
     { name = "Karam Soliman", email = "karam.soliman.etu@univ-lille.fr" }
 ]
-requires-python = ">=3.12"
+requires-python = ">=3.11"
 dependencies = []
 
 [build-system]
